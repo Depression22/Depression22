@@ -1,5 +1,5 @@
 ## Hi there, Im Jared Quiñones :mushroom:
->Welcome to my Github. I'm a passionate computer systems student with a great desire to learn and beacme a excellent python developer :snake:
+>Welcome to my Github. I'm a passionate computer systems student with a great desire to learn and became a excellent python developer :snake:
 
 ### :grey_exclamation: About me 
 
@@ -16,9 +16,8 @@
 
 - Programming Languajes: Python, Java, JavaScript, C++
 - Tools and Softwares: NetBeans, VisualStudio Code, SQL Server & MySQL, AppInventor
--
 
 ### :mag_right: Get in touch
-:e-mail: [E-Mail](jaredqc.22@hotmail.com)
+:e-mail: jaredqc.22@hotmail.com
 
 :briefcase: [Linkedin](https://www.linkedin.com/in/jared-quiñones79a485291/)
