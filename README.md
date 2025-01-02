@@ -17,6 +17,11 @@
 - Programming Languajes: Python, Java, JavaScript, C++
 - Tools and Softwares: NetBeans, VisualStudio Code, SQL Server & MySQL, AppInventor
 
+### :zap: Latest Actions
+<!--START_SECTION:activity -->
+
+<!--END _SECTION:activity -->
+
 ### :mag_right: Get in touch
 :e-mail: jaredqc.22@hotmail.com
 
