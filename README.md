@@ -15,7 +15,7 @@
 >Here some tool and technologies that im used to use and love to use it
 
 - Programming Languajes: Python, Java, JavaScript, C++
-- Tools and Softwares: NetBeans, VisualStudio Code, SQL Server & MySQL, AppInventor
+- Tools and Softwares:VisualStudio Code, SQL Server & MySQL
 
 ### :zap: Latest Actions
 <!--START_SECTION:activity -->
